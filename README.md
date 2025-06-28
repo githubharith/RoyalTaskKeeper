@@ -98,13 +98,10 @@ TaskKeeper/
 The application is deployed and accessible at:
 **https://euphonious-torte-148096.netlify.app**
 
-## 📄 License
-
-This project is private and proprietary.
 
 ## 🤝 Contributing
 
-This is a private repository. For questions or suggestions, please contact the repository owner.
+This is a public repository. For questions or suggestions, please contact the repository owner.
 
 ---
 
